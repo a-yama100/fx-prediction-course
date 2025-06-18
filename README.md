@@ -1,15 +1,79 @@
-# FX Prediction Learning Notebooks
+# 📘 FX Prediction AI Learning Course
 
-These Jupyter/Colab notebooks are part of the [Notion Course Template](https://notion.so/your-link).  
-You can run them freely via Google Colab — no installation required.
+This repository provides ready-to-run Colab notebooks and a Notion learning template for forecasting Forex (USD/JPY) using Python.
 
-## Contents
-- 01: Python environment setup
-- 02: Downloading forex data (USD/JPY)
-- 03: Simple moving average forecast
-- 04: ARIMA time series prediction
+---
 
-## How to Use
-1. Open each notebook with Colab
-2. Follow the instructions inside
-3. Use Notion to track your learning
+## 🚀 What’s Included
+
+- ✅ 1 Notion Template (structured, step-by-step learning system)  
+- ✅ 4+ Google Colab notebooks (.ipynb files)  
+- ✅ GitHub-hosted code with environment file  
+- ✅ English instructions & usage guide (this README)
+
+---
+
+## 📘 Notion Template
+
+Click the link below and then click **“Duplicate”** to add it to your own Notion workspace:
+
+👉 https://unexpected-care-7d3.notion.site/FX-Prediction-AI-Learning-Notebook-215237c18fbe8014a5e3c09fd0069957
+
+---
+
+## ▶️ How to Use This Repo
+
+1. Open any `.ipynb` notebook in [Google Colab](https://colab.research.google.com/)
+2. Follow the step-by-step instructions inside each notebook
+3. Use the companion Notion workspace to log predictions, compare models, and track your learning progress
+
+> 💡 No installation required — all notebooks run in Google Colab (free tier)
+
+---
+
+## 🧪 Notebook Overview
+
+| Notebook File             | Description                                     |
+|---------------------------|-------------------------------------------------|
+| `01_setup.ipynb`          | Python environment setup + Google Drive mount  |
+| `02_data_download.ipynb`  | Download USD/JPY Forex data using yfinance     |
+| `03_ma_prediction.ipynb`  | Forecast using 10-day and 30-day moving average |
+| `04_arima_forecast.ipynb` | Forecast future prices using ARIMA model       |
+
+---
+
+## 📦 Requirements
+
+All required libraries are installed automatically within each notebook using `!pip install`:
+
+```bash
+pandas
+numpy
+yfinance
+matplotlib
+statsmodels
+scikit-learn
+```
+
+---
+
+## 🎯 Target Audience
+
+- Beginner to intermediate Python learners  
+- Forex traders exploring AI/ML forecasting  
+- Data science students interested in time series  
+
+---
+
+## 🌍 License
+
+MIT License – Free to use, modify, and share with attribution.
+
+---
+
+## 💡 Tips
+
+- Be sure to check API rate limits if using `yfinance` repeatedly  
+- For best experience, duplicate the Notion template first and then open notebooks
+
+Happy forecasting! 📈
