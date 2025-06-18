@@ -21,6 +21,8 @@ This repository provides ready-to-run Colab notebooks and a structured Notion le
 
 ✅ [IBM Certified] Generative AI Engineering Professional
 
+✅ Scored perfect marks on International IQ test (135+)
+
 ![Seminar](prof002.png)  
 **Recognized Speaker**  
 Delivered educational seminars to hundreds of traders and engineers, focusing on Python-powered FX prediction and automated trading.
