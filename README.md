@@ -18,6 +18,7 @@ This repository provides ready-to-run Colab notebooks and a structured Notion le
 ## 👤 About the Author
 
 ✅ [Vanderbilt University Certified] AI Agent Developer Professional
+
 ✅ [IBM Certified] Generative AI Engineering Professional
 
 ![Seminar](prof002.png)  
