@@ -10,6 +10,8 @@ This repository provides ready-to-run Colab notebooks and a Notion learning temp
 - ✅ English instructions & usage guide (this README)
 
 ## 👤 About the Author
+![Demo Screenshot](prof002.png)
+![Demo Screenshot](prof001.png)
 With over **15 years of experience in Forex trading** and **5+ years developing EAs and AI-based prediction models** using Python, I have been featured in **Japanese TV interviews, magazines, and national news** for my innovative work in algorithmic finance.
 
 This course distills years of hands-on experience into a **step-by-step system** that’s beginner-friendly, yet grounded in real-world financial applications.
