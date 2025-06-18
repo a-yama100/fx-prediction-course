@@ -1,4 +1,4 @@
-![Course Preview](prof003.png)
+![Course Preview](prof000.png)
 
 # 📘 FX Prediction AI Learning Course
 
