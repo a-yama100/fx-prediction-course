@@ -21,6 +21,10 @@ This repository provides ready-to-run Colab notebooks and a structured Notion le
 
 ✅ [IBM Certified] Generative AI Engineering Professional
 
+✅ [IBM Certified] Data Science Professional
+
+✅ [IBM Certified] Full Stack Software Developer Professional
+
 ✅ Scored perfect marks on International IQ test (135+)
 
 ![Seminar](prof002.png)  
