@@ -17,16 +17,6 @@ This repository provides ready-to-run Colab notebooks and a structured Notion le
 
 ## 👤 About the Author
 
-✅ [Vanderbilt University Certified] AI Agent Developer Professional
-
-✅ [IBM Certified] Generative AI Engineering Professional
-
-✅ [IBM Certified] Data Science Professional
-
-✅ [IBM Certified] Full Stack Software Developer Professional
-
-✅ Scored perfect marks on International IQ test (135+)
-
 ![Seminar](prof002.png)  
 **Recognized Speaker**  
 Delivered educational seminars to hundreds of traders and engineers, focusing on Python-powered FX prediction and automated trading.
@@ -38,6 +28,15 @@ Featured on Japanese TV, in major financial magazines, and national news article
 With over **15 years of experience in Forex trading** and **5+ years developing EAs and AI-based prediction models** using Python, I’ve helped both professionals and self-learners understand the power of algorithmic finance.
 
 This system distills years of hands-on experience into a **practical, beginner-friendly learning program** that’s grounded in real-world trading applications.
+
+🎓 Professional Qualifications & Expertise
+
+✅ [Vanderbilt University Certified] AI Agent Developer Professional
+✅ [IBM Certified] Generative AI Engineering Professional
+✅ [IBM Certified] Data Science Professional
+✅ [IBM Certified] Full Stack Software Developer Professional
+✅ Scored perfect marks on International IQ test (135+)
+
 
 > 🔒 Not just another template — this is a battle-tested learning system built by a real trader and engineer.
 
