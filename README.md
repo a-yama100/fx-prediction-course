@@ -44,6 +44,7 @@ Click the link below and then click **“Duplicate”** to add it to your own No
 ## 📦 Requirements
 All required libraries are installed automatically within each notebook using `!pip install`:
 
+
 ```bash
 pandas
 numpy
@@ -52,6 +53,7 @@ matplotlib
 statsmodels
 scikit-learn
 ---
+
 
 ## 🎯 Target Audience
 - Beginner to intermediate Python learners  
