@@ -1,3 +1,5 @@
+![Demo Screenshot](prof003.png)
+
 # 📘 FX Prediction AI Learning Course
 This repository provides ready-to-run Colab notebooks and a Notion learning template for forecasting Forex (USD/JPY) using Python.
 
