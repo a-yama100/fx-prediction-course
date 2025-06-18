@@ -32,9 +32,13 @@ This system distills years of hands-on experience into a **practical, beginner-f
 🎓 Professional Qualifications & Expertise
 
 ✅ [Vanderbilt University Certified] AI Agent Developer Professional
+
 ✅ [IBM Certified] Generative AI Engineering Professional
+
 ✅ [IBM Certified] Data Science Professional
+
 ✅ [IBM Certified] Full Stack Software Developer Professional
+
 ✅ Scored perfect marks on International IQ test (135+)
 
 
